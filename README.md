@@ -16,7 +16,7 @@ A project for Advanced Software Engineering course. This project is a RESTFUL AP
 **Ride subsystem**
 <br>This subsystem contains the classes that are responsible for the ride management and the driver's offers.
 
-<br>
+
 **Tools used:**
 <br>  1. Java
 <br>  2. Apache NetBeans IDE
