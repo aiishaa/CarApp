@@ -7,15 +7,18 @@ A project for Advanced Software Engineering course. This project is a RESTFUL AP
 
 This subsystem contains most of the classes upon which any of the system users (Passengers, Drivers, Admins) depend in order for them to get their needs done.
 
-<br> Data subsystem 
+<br> 
+**Data subsystem 
 
 This subsystem contains all the classes that has to do with saving or manipulating any of our system's data. This system depends on arraylists to save the data, But a database management system can be used at any time interchangebly with these arraylists.
 
-<br> Event subsystem
+<br> 
+**Event subsystem
 
 This subsystem contains the classes responsible for tracking all the events that take place within the system.
 
-<br> Ride subsystem
+<br> 
+**Ride subsystem
 
 This subsystem contains the classes that are responsible for the ride management and the driver's offers.
 
