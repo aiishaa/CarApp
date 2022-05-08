@@ -1,6 +1,6 @@
 # CarApp
 
-A project for Advanced Software Engineering course. This project is a RESTFUL API implemented using Java and spring boot, It provides a car booking service that helps passengers to choose a driver from a list of those drivers that accepted his ride request. They can meet at a specific location. 
+A project for Advanced Software Engineering course. This project is a RESTFUL API implemented using Java and spring boot, It provides a car booking service that helps passengers to choose a driver from a list of those drivers that accepted his ride request. They can meet at a specific location and start the ride. 
 
 **The system is divided into four main parts.**
 <br>**Customer subsystem** 
